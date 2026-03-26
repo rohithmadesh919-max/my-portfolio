@@ -26,13 +26,13 @@ function Projects() {
 
       {/* ✅ ADD THIS PART */}
      <div className="links">
-  <a 
+  {/* <a 
     href="https://rohith45-portfolio.netlify.app" 
     target="_blank" 
     rel="noopener noreferrer"
   >
     🔗 Live Demo
-  </a>
+  </a> */}
 
   <a 
     href="https://github.com/rohithmadesh919-max/my-portfolio" 
